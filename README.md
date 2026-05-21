@@ -1,8 +1,9 @@
-# Jeremy Neuhaus
+# Lebenslauf Jeremy Neuhaus
 
 ## Fachinformatiker für Anwendungsentwicklung
 
-✉️ j-neuhaus-dev@gmx.de  
+# Kontakt
+j-neuhaus-dev@gmx.de  
 
 ---
 
@@ -27,10 +28,10 @@ Darüber hinaus erwarb ich fundierte Grundkenntnisse in der Webentwicklung sowie
 
 | Technologie | Kenntnisse |
 |---|---|
-| C# | Sehr gut |
-| WPF | Sehr gut |
-| EF Core | Sehr gut |
-| RestSharp | Gut |
+| C# | Fortgeschritten  |
+| WPF | Fortgeschritten  |
+| EF Core | Grundlagen |
+| RestSharp | Grundlagen |
 
 ---
 
@@ -38,9 +39,9 @@ Darüber hinaus erwarb ich fundierte Grundkenntnisse in der Webentwicklung sowie
 
 | Technologie | Kenntnisse |
 |---|---|
-| HTML | Gut |
-| CSS | Gut |
-| JavaScript | Gut |
+| HTML | Grundlagen |
+| CSS | Grundlagen |
+| JavaScript | Grundlagen |
 
 ---
 
@@ -48,8 +49,8 @@ Darüber hinaus erwarb ich fundierte Grundkenntnisse in der Webentwicklung sowie
 
 | Technologie | Kenntnisse |
 |---|---|
-| Git & Versionskontrolle | Fortgeschritten |
-| Docker & Containerisierung | Fortgeschritten |
+| Git & Versionskontrolle | Grundlagen |
+| Docker & Containerisierung | Grundlagen |
 
 ---
 
