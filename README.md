@@ -1,139 +1,111 @@
-# 👨‍💻 Jeremy Neuhaus - Fachinformatiker für Anwendungsentwicklung
+# Jeremy Neuhaus - Fachinformatiker für Anwendungsentwicklung
 
-# Kontakt
+## Kontakt
 
-📧 **j-neuhaus-dev@gmx.de**
+j-neuhaus-dev@gmx.de
 
 ---
 
-# ✨ Über mich
+## Über mich
 
-> Leidenschaftlicher angehender Softwareentwickler mit Fokus auf moderne Desktop- und Webanwendungen.
+Leidenschaftlicher angehender Softwareentwickler mit Fokus auf moderne Desktop- und Webanwendungen.
 
 Während meiner Ausbildung habe ich mir einen vielseitigen Tech-Stack aufgebaut, dessen Schwerpunkt in der Entwicklung von Desktop-Anwendungen lag.
 
 Dabei sammelte ich praktische Erfahrungen mit:
 
-- ⚙️ WPF
-- 🧩 MVVM-Architekturpattern
-- 🏗️ Implementierung von Business-Logik
-- 🗄️ Datenbankabfragen mit EF Core
+- WPF
+- MVVM-Architekturpattern
+- Implementierung von Business-Logik
+- Datenbankabfragen mit Entity Framework Core
 
 Darüber hinaus erwarb ich fundierte Grundkenntnisse in der Webentwicklung sowie in der Projektplanung und Konzeptausarbeitung.
 
 ---
 
-# 🚀 Technologien
+## Technologien
 
-<div align="center">
-
-| 💻 Backend & Desktopentwicklung | 🌐 Webentwicklung | 🛠️ Tools & DevOps |
+| Backend & Desktopentwicklung | Webentwicklung | Tools & DevOps |
 |---|---|---|
-| **C#** ⭐⭐⭐⭐☆ | **HTML** ⭐⭐☆☆☆ | **Git** ⭐⭐☆☆☆ |
-| **WPF** ⭐⭐⭐⭐☆ | **CSS** ⭐⭐☆☆☆ | **Docker** ⭐⭐☆☆☆ |
-| **EF Core** ⭐⭐☆☆☆ | **JavaScript** ⭐⭐☆☆☆ | **Versionskontrolle** ⭐⭐☆☆☆ |
-| **RestSharp** ⭐⭐☆☆☆ |  |  |
-
-</div>
+| C# | HTML | Git |
+| WPF | CSS | Docker |
+| Entity Framework Core | JavaScript | Versionskontrolle |
+| RESTSharp |  |  |
 
 ---
 
-# 💼 Berufserfahrung
+## Berufserfahrung
 
-## 🖥️ Ausbildung Fachinformatiker (Anwendungsentwicklung)
+### Ausbildung Fachinformatiker (Anwendungsentwicklung)
 
-<div align="left">
-
-📍 **E.M.P. Merchandising Handelsgesellschaft mbH**  
-📌 49811 Lingen  
-🗓️ **2023 – 2026**
-
-</div>
+E.M.P. Merchandising Handelsgesellschaft mbH  
+49811 Lingen  
+2023 – 2026
 
 ---
 
-## 🛒 Verkäufer
+## Verkäufer
 
-### Möbel ROLLER
-📍 49504 Lotte  
-🗓️ **2019 – 2023**
-
-### POCO
-📍 48499 Salzbergen  
-🗓️ **2019 – 2023**
+Möbel ROLLER – 49504 Lotte – 2019 – 2023  
+POCO – 48499 Salzbergen – 2019 – 2023
 
 ---
 
-## 🏗️ Technischer Produktdesigner
+## Technischer Produktdesigner
 
-📍 **Bäumer Converting Machines**  
-📌 48496 Hopsten  
-🗓️ **2019 – 2020**
+Bäumer Converting Machines – 48496 Hopsten – 2019 – 2020
 
 ---
 
-## 🎓 Abgeschlossene Ausbildung Technischer Produktdesigner
+## Abgeschlossene Ausbildung Technischer Produktdesigner
 
-📍 **Bäumer Converting Machines**  
-📌 48496 Hopsten  
-🗓️ **2015 – 2019**
+Bäumer Converting Machines – 48496 Hopsten – 2015 – 2019
 
 ---
 
-# 🏫 Schulbildung
+## Schulbildung
 
-## Fachoberschulreife
-
-📍 **St. Georg Hauptschule**  
-📌 48496 Hopsten  
-🗓️ **2014**
+Fachoberschulreife  
+St. Georg Hauptschule – 2014
 
 ---
 
-# 💡 Stärken
+## Stärken
 
-<div align="center">
-
-| 🧠 Persönlich | ⚡ Technisch |
-|---|---|
-| Strukturierte Arbeitsweise | Technisches Verständnis |
-| Schnelle Auffassungsgabe | Interesse an modernen Technologien |
-| Teamfähigkeit | Lösungsorientiertes Denken |
-
-</div>
+- Strukturierte Arbeitsweise  
+- Schnelle Auffassungsgabe  
+- Teamfähigkeit  
+- Technisches Verständnis  
+- Lösungsorientiertes Denken  
 
 ---
 
-# 🎯 Interessen
+## Interessen
 
-- 💻 Softwareentwicklung
-- 🌐 Desktop- und Webentwicklung
-- 🚀 Neue Technologien
-- 🐳 Containerisierung & DevOps
-- 🎨 Moderne UI/UX Anwendungen
-- 📚 Fachbücher über Mathematik & Programmierung
-
----
-
-# 🏆 Hobby & Ehrenamt
-
-## ⚽ Ehrenamtlicher Trainer mit C-Lizenz
-
-Neben der Softwareentwicklung engagiere ich mich als ehrenamtlicher Trainer und arbeite gerne im Team mit Menschen zusammen.
+- Softwareentwicklung  
+- Desktop- und Webentwicklung  
+- Neue Technologien  
+- Containerisierung und DevOps  
+- Moderne Softwareentwicklung  
+- Mathematik und Programmierkonzepte  
 
 ---
 
-# 📈 Ziele
+## Ehrenamt
 
-- Vertiefung meiner Kenntnisse in der Softwareentwicklung
-- Aufbau moderner Fullstack-Anwendungen
-- Weiterentwicklung im Bereich Architektur & Design Patterns
-- Arbeiten mit modernen Cloud- und DevOps-Technologien
+Ehrenamtlicher Fußballtrainer (C-Lizenz)
 
 ---
 
-<div align="center">
+## Ziele
 
-## 🚀 „Technologie begeistert mich — Lernen motiviert mich.“
+- Vertiefung meiner Kenntnisse in der Softwareentwicklung  
+- Aufbau moderner Fullstack-Anwendungen  
+- Weiterentwicklung im Bereich Architektur und Design Patterns  
+- Arbeiten mit modernen Cloud- und DevOps-Technologien  
 
-</div>
+---
+
+## Motivation
+
+Technologie begeistert mich – Lernen motiviert mich.
